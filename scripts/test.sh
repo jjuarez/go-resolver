@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 declare -r PACKAGE="netdns"
 declare -r DEFAULT_DEBUG_LEVEL=2
 declare -r DEFAULT_TARGET_HOST="sts.amazonaws.com"
